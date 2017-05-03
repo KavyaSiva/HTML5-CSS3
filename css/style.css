@@ -1,0 +1,126 @@
+body
+{
+	margin:auto;
+	background: url(../img/background.jpg);
+
+}
+.container_24
+{
+ background: ;
+}
+header
+{
+	width: 960px;
+	height: 100px;
+	position: fixed;
+	overflow: hidden;
+	margin: auto;
+	background: url(../img/feather1.jpg);
+}
+
+.top h1
+{
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-left: 40px;
+	font-size: 70px;
+}
+
+.side li
+{
+	display:inline;
+	list-style: none;
+    font-size: 25px;
+    margin: auto;
+    padding: 10px;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+ }
+.side ul
+{
+	   margin-top: 30px;
+	   margin-right: 5px;
+
+}
+ul
+{
+	text-align: center;
+
+}
+
+a
+{
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration: none;
+}
+h1,h2
+{
+	font-family: 'Courgette', cursive
+}
+.main img
+{
+	width: 960px;
+	height: 550px;
+	margin-left: -5px;
+	margin-right: -5px;
+	margin-top: 100px;
+	margin-bottom: 15px;
+	overflow: hidden;
+	
+}
+.primary p
+{
+	font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 16px;
+    text-align:justify-all;
+    overflow: hidden;
+
+}
+.primary img
+{
+	margin: auto;
+	width: 254px;
+	height: 198px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.secondary p
+{
+	font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 16px;
+    text-align: justify;
+    overflow: hidden;
+
+}
+.secondary img
+{
+	overflow: hidden;
+	width: 432px;
+	height: 500px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+.map
+{
+    margin-bottom: 5px;	
+}
+
+.end
+{
+    margin-top: 5px;
+	text-align: center;
+	
+}
+
+.footer{
+	padding-top:10px;
+	background: url(../img/feather1.jpg);
+}
+.secondary{
+	padding-bottom:20px;
+}
